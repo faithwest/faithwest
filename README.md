@@ -4,12 +4,10 @@
 -----------------------------------------------------------
 I'm Faith West
 
-I spend most of my time building Javascript applications, and server-side applications (Node.js).
 
 
 
-- 🌱 I’m currently learning ... Node and React
-- I am open to explore  and learn
+- 🌱 I’m currently learning ... Node and React ,python,flask,sql
 
 -------------------------------------------------------------
 
