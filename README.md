@@ -7,7 +7,7 @@ I'm Faith West
 
 
 
-- 🌱 I’m currently learning ... Node and React ,python,flask,sql
+- 🌱 I’m currently learning ... Npm and React ,python,flask,sql 
 
 -------------------------------------------------------------
 
